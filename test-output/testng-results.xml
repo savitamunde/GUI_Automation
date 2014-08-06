@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="437" started-at="2014-08-05T12:13:06Z" finished-at="2014-08-05T12:13:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="437" started-at="2014-08-05T12:13:06Z" finished-at="2014-08-05T12:13:06Z">
+      <class name="Persistent.GUI_automation.dataDrivenClass">
+        <test-method status="PASS" signature="firstMethod()[pri:0, instance:Persistent.GUI_automation.dataDrivenClass@df416]" name="firstMethod" duration-ms="420" started-at="2014-08-05T17:43:06Z" finished-at="2014-08-05T17:43:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstMethod -->
+      </class> <!-- Persistent.GUI_automation.dataDrivenClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
